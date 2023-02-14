@@ -13,7 +13,7 @@ const {gameOptions, againOptions} = require('./options')
 //  logging: false
 //})
 
-const token = '5579772730:AAGqlcg5oy9bfCQC5cSQt4PztKtHljSonoU'
+const token = '6118887144:AAGll2wqTaUc7pQBp9gXTKeLw1hyUQWNTCE'
 
 const bot = new TelegramApi(token, {polling: true})
 
